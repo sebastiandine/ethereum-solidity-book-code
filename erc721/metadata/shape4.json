@@ -1,0 +1,15 @@
+{
+    "name": "Shape #4",
+    "description": "Shapes: A collection of colored shapes.",
+    "image": "https://raw.githubusercontent.com/sebastiandine/ethereum-solidity-book-code/master/erc721/metadata/star_green.png",
+    "external_url": "https://shapes-collection.com",
+    "attributes": [
+        {
+            "trait_type": "shape",
+            "value": "star"
+        },
+        {   "trait_type": "color",
+            "value": "green"
+        }
+    ]
+}

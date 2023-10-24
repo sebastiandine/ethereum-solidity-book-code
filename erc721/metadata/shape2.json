@@ -1,0 +1,15 @@
+{
+    "name": "Shape #2",
+    "description": "Shapes: A collection of colored shapes.",
+    "image": "https://raw.githubusercontent.com/sebastiandine/ethereum-solidity-book-code/master/erc721/metadata/circle_blue.png",
+    "external_url": "https://shapes-collection.com",
+    "attributes": [
+        {
+            "trait_type": "shape",
+            "value": "circle"
+        },
+        {   "trait_type": "color",
+            "value": "blue"
+        }
+    ]
+}
